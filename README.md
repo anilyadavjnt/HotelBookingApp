@@ -1,37 +1,6 @@
 
 HotelBookingApp (iOS)
 
-Architecture:- 
-
-HotelBookingApp
-
-│
-├── Models
-│     ├── Hotel.swift
-│     ├── Booking.swift
-│
-├── Views
-│     ├── SearchViewController
-│     ├── HotelListViewController
-│     ├── HotelDetailsViewController
-│     ├── BookingViewController
-│
-├── ViewModels (MVVM)
-│     ├── HotelViewModel
-│
-├── Network
-│     ├── APIManager
-│
-├── Resources
-│     ├── Assets
-│     ├── Images
-│
-└── Utilities
-      ├── Constants
-      ├── Extensions
-
-      
-
 HotelBookingApp is a modern iOS application developed using Swift, UIKit, MVC/MVVM architecture, Storyboard/XIB, which allows users to search and browse hotels, select check-in/check-out dates, specify the number of guests, and view hotel listings with pricing details. The app focuses on providing a clean, responsive, and user-friendly booking experience.
 
 Features:
@@ -110,3 +79,35 @@ Booking Confirmation
 
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 08" src="https://github.com/user-attachments/assets/10501fb0-b65a-42fd-b71c-59d359e376a9" />
+
+
+Architecture:- 
+
+HotelBookingApp
+
+│
+├── Models
+│     ├── Hotel.swift
+│     ├── Booking.swift
+│
+├── Views
+│     ├── SearchViewController
+│     ├── HotelListViewController
+│     ├── HotelDetailsViewController
+│     ├── BookingViewController
+│
+├── ViewModels (MVVM)
+│     ├── HotelViewModel
+│
+├── Network
+│     ├── APIManager
+│
+├── Resources
+│     ├── Assets
+│     ├── Images
+│
+└── Utilities
+      ├── Constants
+      ├── Extensions
+
+      
