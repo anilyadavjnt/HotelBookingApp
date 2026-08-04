@@ -18,3 +18,19 @@ Features:
 
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 23 51" src="https://github.com/user-attachments/assets/2af49013-705b-4fcd-bbe4-01b8a8e2c266" />
+
+Technologies Used :
+Swift 5
+UIKit
+Storyboard / XIB
+UITableView
+Auto Layout
+MVC / MVVM
+URLSession
+Codable
+REST API
+JSON Parsing
+SDWebImage (optional)
+Git & GitHub
+
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 23 56" src="https://github.com/user-attachments/assets/6c821dd5-9990-49d5-82d2-994be95dd914" />
