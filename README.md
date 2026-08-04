@@ -4,6 +4,7 @@ HotelBookingApp (iOS)
 Architecture:- 
 
 HotelBookingApp
+
 │
 ├── Models
 │     ├── Hotel.swift
