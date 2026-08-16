@@ -72,6 +72,13 @@ Selected Dates
 Payment Details
 Booking Confirmation
 
+
+ Email- anilyadavjnt@gmail.com 
+ 
+ GitHub- https://github.com/anilyadavjnt 
+ 
+ Portfolio- https://portfolio-anilyadavjnt.vercel.app
+
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 00" src="https://github.com/user-attachments/assets/3fb0a863-9e03-40e5-b60b-b9eb84080d95" />
 
 
@@ -80,10 +87,6 @@ Booking Confirmation
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 08" src="https://github.com/user-attachments/assets/10501fb0-b65a-42fd-b71c-59d359e376a9" />
 
-
- Email- anilyadavjnt@gmail.com  
- GitHub- https://github.com/anilyadavjnt  
- Portfolio- https://portfolio-anilyadavjnt.vercel.app
 
 
 Architecture:- 
