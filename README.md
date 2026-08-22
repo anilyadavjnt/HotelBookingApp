@@ -33,7 +33,6 @@ Git & GitHub
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 23 56" src="https://github.com/user-attachments/assets/6c821dd5-9990-49d5-82d2-994be95dd914" />
 
-
 Modules:-
 1. Search Module
 Users can search hotels by entering a destination or hotel name.
