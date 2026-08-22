@@ -76,7 +76,6 @@ Booking Confirmation
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 00" src="https://github.com/user-attachments/assets/3fb0a863-9e03-40e5-b60b-b9eb84080d95" />
 
-
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 04" src="https://github.com/user-attachments/assets/e1ab9474-6587-411f-b30a-adf181e9a35b" />
 
 
