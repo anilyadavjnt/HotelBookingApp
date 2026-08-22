@@ -36,7 +36,6 @@ Git & GitHub
 
 
 Modules:-
-
 1. Search Module
 Users can search hotels by entering a destination or hotel name.
 2. Date Selection
@@ -70,7 +69,6 @@ Guest Information
 Selected Dates
 Payment Details
 Booking Confirmation
-
 
  Email- anilyadavjnt@gmail.com 
  
