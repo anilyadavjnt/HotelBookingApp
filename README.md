@@ -81,7 +81,6 @@ Booking Confirmation
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 08" src="https://github.com/user-attachments/assets/10501fb0-b65a-42fd-b71c-59d359e376a9" />
 
-
 Architecture:- 
 
 HotelBookingApp
