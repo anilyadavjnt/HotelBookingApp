@@ -57,6 +57,14 @@ Booking Confirmation
 
 ## 📸 Screenshots
 
+* Home Screen
+* Hotel Listing
+* Search Screen
+* Hotel Details
+* Room Selection
+* Booking Screen
+* Confirmation Screen
+
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 23 51" src="https://github.com/user-attachments/assets/2af49013-705b-4fcd-bbe4-01b8a8e2c266" />
 
 
@@ -73,13 +81,7 @@ Booking Confirmation
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-08-04 at 22 24 08" src="https://github.com/user-attachments/assets/10501fb0-b65a-42fd-b71c-59d359e376a9" />
 
 
-* Home Screen
-* Hotel Listing
-* Search Screen
-* Hotel Details
-* Room Selection
-* Booking Screen
-* Confirmation Screen
+
 
 ## 🚀 Getting Started
 
